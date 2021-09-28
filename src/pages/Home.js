@@ -1,13 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import main from "../assets/hOME.jpeg";
+import main from "../assets/homes.png";
 import "../styles/Home.css";
+import About from "./About";
 
 
 
 function Home() {
   return (
-    <div className="home" style={{ backgroundImage: `url(${main})` ,height: "500px"}}>
+    <div className="home" style={{ backgroundImage: `url(${main})`}}>
       
       <div className="headerContainer">
         <h1> Finance Club </h1>
@@ -17,6 +18,7 @@ function Home() {
         </Link>
         
       </div>
+      <About/>
       
 
       </div>
