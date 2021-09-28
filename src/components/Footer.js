@@ -23,7 +23,7 @@ function Footer() {
       </div>
     <div className="column3">
       <h2>NITR</h2>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
           mollitia, molestiae quas vel sint commodi repudiandae consequuntur
           voluptatum laborum numquam blanditiis harum quisquam eius sed odit
           fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
