@@ -1,4 +1,50 @@
-.footer {
+.preF{
+  height: 300px;
+  width: 100%;
+  
+}
+#preF {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.preF .column1 {
+  float: left;
+  height: 200px;
+  width: 23%;
+  margin: 0 10px;
+  color: #99999b;
+}
+.preF .column2 {
+  float: left;
+  height: 200px;
+  width: 23%;
+  margin: 0 10px;
+  color: #99999b;
+}
+.preF .column3 {
+  float: left;
+  height: 200px;
+  width: 23%;
+  padding: 0 0px;
+  color: #99999b;
+}
+
+
+
+.preF .infoF{
+  color: white;
+  background-color: black;
+  padding-top: 3em;
+  padding-left: 20%;
+  position: relative;
+  bottom: 0;
+  width: 80%;
+  height: 100%;
+  
+}
+.preF .footer {
   width: 100%;
   height: 200px;
   background-color: #121619;
@@ -14,6 +60,7 @@
   margin: 20px;
   font-size: 70px;
   cursor: pointer;
+  
 }
 
 .footer p {

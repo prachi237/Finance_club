@@ -16,7 +16,7 @@
 }
 .navbar .leftSide .logoName{
   padding-left: 5%;
-  font-size: x-large;
+ 
 }
 .navbar .leftSide img {
   width: 70px;
@@ -31,7 +31,7 @@
   font-size: larger;
 }
 .navbar .rightSide :hover{
-  color: chartreuse;
+  color: rgb(136, 136, 136);
 }
 
 .navbar a {
