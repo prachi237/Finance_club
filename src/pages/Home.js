@@ -12,7 +12,12 @@ function Home() {
       
       <div className="headerContainer">
         <h1> Finance Club </h1>
-        <p> NIT ROURKELA</p>
+        <h3> NIT ROURKELA</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
+          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
+          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
+          accusantiu</p>
         <Link to="/about">
           <button> KNOW MORE </button>
         </Link>
