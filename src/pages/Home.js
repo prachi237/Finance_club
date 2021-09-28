@@ -17,7 +17,7 @@ function Home() {
           mollitia, molestiae quas vel sint commodi repudiandae consequuntur
           voluptatum laborum numquam blanditiis harum quisquam eius sed odit
           fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantiu</p>
+          accusantiunjjjjjijijiji</p>
         <Link to="/about">
           <button> KNOW MORE </button>
         </Link>
