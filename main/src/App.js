@@ -1,11 +1,13 @@
 import './App.css';
 import NavBar from './NavBar';
+import Knowmore from './Knowmore';
 
 function App() {
   return (
     <div>
       <NavBar/>
-      </div>
+      <Knowmore/>
+    </div>
   );
 }
 

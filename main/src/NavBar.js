@@ -7,7 +7,7 @@ function NavBar(){
             
             </div>
             <ul className="nav-links">
-                <li><a href="/">Home</a></li>
+                <li><a href="/Teams">Home</a></li>
                 <li><a href="/">Events</a></li>
                 <li><a href="/">Blogs</a></li>
                 <li><a href="/">Team</a></li>
