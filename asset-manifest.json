@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Finance_club/static/css/main.d12b193c.chunk.css",
-    "main.js": "/Finance_club/static/js/main.1654f2cf.chunk.js",
-    "main.js.map": "/Finance_club/static/js/main.1654f2cf.chunk.js.map",
-    "runtime-main.js": "/Finance_club/static/js/runtime-main.04a70afe.js",
-    "runtime-main.js.map": "/Finance_club/static/js/runtime-main.04a70afe.js.map",
-    "static/js/2.9fe35aeb.chunk.js": "/Finance_club/static/js/2.9fe35aeb.chunk.js",
-    "static/js/2.9fe35aeb.chunk.js.map": "/Finance_club/static/js/2.9fe35aeb.chunk.js.map",
-    "static/js/3.e16e60ad.chunk.js": "/Finance_club/static/js/3.e16e60ad.chunk.js",
-    "static/js/3.e16e60ad.chunk.js.map": "/Finance_club/static/js/3.e16e60ad.chunk.js.map",
+    "main.css": "/Finance_club/static/css/main.12cc9518.chunk.css",
+    "main.js": "/Finance_club/static/js/main.8455a0b7.chunk.js",
+    "main.js.map": "/Finance_club/static/js/main.8455a0b7.chunk.js.map",
+    "runtime-main.js": "/Finance_club/static/js/runtime-main.53378efb.js",
+    "runtime-main.js.map": "/Finance_club/static/js/runtime-main.53378efb.js.map",
+    "static/js/2.eddf2e13.chunk.js": "/Finance_club/static/js/2.eddf2e13.chunk.js",
+    "static/js/2.eddf2e13.chunk.js.map": "/Finance_club/static/js/2.eddf2e13.chunk.js.map",
+    "static/js/3.a4872cce.chunk.js": "/Finance_club/static/js/3.a4872cce.chunk.js",
+    "static/js/3.a4872cce.chunk.js.map": "/Finance_club/static/js/3.a4872cce.chunk.js.map",
     "index.html": "/Finance_club/index.html",
-    "static/css/main.d12b193c.chunk.css.map": "/Finance_club/static/css/main.d12b193c.chunk.css.map",
-    "static/js/2.9fe35aeb.chunk.js.LICENSE.txt": "/Finance_club/static/js/2.9fe35aeb.chunk.js.LICENSE.txt",
+    "static/css/main.12cc9518.chunk.css.map": "/Finance_club/static/css/main.12cc9518.chunk.css.map",
+    "static/js/2.eddf2e13.chunk.js.LICENSE.txt": "/Finance_club/static/js/2.eddf2e13.chunk.js.LICENSE.txt",
     "static/media/contact.17788347.jpg": "/Finance_club/static/media/contact.17788347.jpg",
     "static/media/homes.ce59fc2b.png": "/Finance_club/static/media/homes.ce59fc2b.png",
-    "static/media/logo.1341ac8a.jpeg": "/Finance_club/static/media/logo.1341ac8a.jpeg"
+    "static/media/logo.1341ac8a.jpeg": "/Finance_club/static/media/logo.1341ac8a.jpeg",
+    "static/media/resource.3459584f.jpg": "/Finance_club/static/media/resource.3459584f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.04a70afe.js",
-    "static/js/2.9fe35aeb.chunk.js",
-    "static/css/main.d12b193c.chunk.css",
-    "static/js/main.1654f2cf.chunk.js"
+    "static/js/runtime-main.53378efb.js",
+    "static/js/2.eddf2e13.chunk.js",
+    "static/css/main.12cc9518.chunk.css",
+    "static/js/main.8455a0b7.chunk.js"
   ]
 }
