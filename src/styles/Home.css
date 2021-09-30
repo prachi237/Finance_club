@@ -18,7 +18,7 @@
   margin-left: 150px;
   height: 600px;
   color: aliceblue;
-  padding-top: 10%;
+  padding-top: 6%;
 }
 
 .headerContainer h1 {
@@ -26,16 +26,24 @@
   align-items: center;
   font-size: 90px;
   height: 60px;
-  font-weight: 50;
   color: aliceblue;
+  font-weight: 100;
 
+}
+.headerContainer h2{
+  font-size: 28px;
+  color: aliceblue;
+  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .headerContainer p {
   padding: 0;
-  font-weight: lighter;
+  font-weight:300;
   color: aliceblue;
   width: 20%;
+  font-size:medium;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .headerContainer button {

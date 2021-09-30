@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import main from "../assets/homes.png";
 import "../styles/Home.css";
 import About from "./About";
+import Resource from "./Resource";
+import Update from "./liveUpdates";
 
 
 
@@ -12,7 +14,7 @@ function Home() {
       
       <div className="headerContainer">
         <h1> Finance Club </h1>
-        <h3> NIT ROURKELA</h3>
+        <h2> NIT Rourkela</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
           mollitia, molestiae quas vel sint commodi repudiandae consequuntur
           voluptatum laborum numquam blanditiis harum quisquam eius sed odit
@@ -24,8 +26,8 @@ function Home() {
         
       </div>
       <About/>
-      
-
+      <Resource/>
+      <Update/>    
       </div>
     
       
