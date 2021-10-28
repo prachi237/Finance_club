@@ -14,6 +14,7 @@
 .aboutTop {
   width: 100%;
   height: 45%;
+  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -30,7 +31,8 @@
 
 .aboutBottom p {
   padding-left: 20%;
-  width: 60%;
+  width: 80%;
+  padding-top: 5%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: larger;
   color: rgb(124, 121, 121);
@@ -44,4 +46,5 @@
   display: flex;
   justify-content: center;
   transform: translateY(-40px);
+  padding-top: 5%;
 }

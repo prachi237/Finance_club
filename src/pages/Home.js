@@ -15,11 +15,7 @@ function Home() {
       <div className="headerContainer">
         <h1> Finance Club </h1>
         <h2> NIT Rourkela</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantiunjjjjjijijiji</p>
+        <p>The Finance club of NITR is one of the largest professional clubs on campus, hosting a full schedule of events to help everyone from those with no background in finance to those coming from finance looking to switch focus within the industry.</p>
         <Link to="/about">
           <button> KNOW MORE </button>
         </Link>

@@ -33,12 +33,13 @@
 .headerContainer h2{
   font-size: 28px;
   color: aliceblue;
-  
+  padding-top: 3%;
+  font-weight: 100;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .headerContainer p {
-  padding: 0;
+  padding-top: 1%;
   font-weight:300;
   color: aliceblue;
   width: 20%;
@@ -59,6 +60,7 @@
   color: white;
   text-decoration: none;
   font-size: 20px;
+  margin-top: 2%;
 }
 
 .headerContainer button:hover {
