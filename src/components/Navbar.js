@@ -23,7 +23,7 @@ function Navbar() {
         <Link to="/"> Events </Link>
         <Link to="/"> Blogs </Link>
         <Link to="/teams"> Team </Link>
-        <Link to="/contact"> Contact </Link>
+        <Link to="/"> Contact </Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon />
         </button>

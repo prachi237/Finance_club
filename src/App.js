@@ -2,7 +2,7 @@ import "./App.css";
 import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import About from "./pages/About";
-import Contact from "./pages/Contact";
+
 import Footer from "./components/Footer";
 import Teams from "./pages/Knowmore";
 
@@ -17,7 +17,7 @@ function App() {
           <Route path="/" exact component={Home} />
           <Route path="/about" exact component={About} />
           <Route path="/teams" exact component={Teams} />
-          <Route path="/contact" exact component={Contact} />
+          
         </Switch>
         <Footer />
       </Router>
