@@ -7,7 +7,27 @@ return(
      
      <div className="aboutBottom">
      <h1 className="title"> LEARNING RESOURCES</h1> 
-     <p className="brief">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+     <div className="cards">
+     <div className="Rcard1">
+       <h1>
+         Stock Markets
+       </h1>
+
+     </div>
+     <div className="Rcard2">
+       <h1>
+         Start-ups
+       </h1>
+
+     </div>
+
+     <div className="Rcard3">
+       <h1>
+         Crypto
+       </h1>
+
+     </div>
+     </div>
         </div>  
    </div>
  );
